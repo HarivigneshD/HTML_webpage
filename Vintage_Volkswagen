@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Vinatage Automobiles</title>
+    <link rel= "icon" href="./img/1968-Dodge-Charger-RT.jpg">
+</head>
+
+<body bgcolor="#fff6e9">
+    <center>
+        <h1> VINTAGE VOLKESWAGEN</h1>
+        <P>Step into the golden era of motoring with timeless vintage automobiles</P>
+    </center>
+    <hr>
+
+    <center>
+        <img src="./img/Volkswagen Kombi Van T2" width="300px" alt="Volkswagen Kombi Van T2"> #Change your file path
+        <h1>Volkswagen Kombi Van T2</h1>
+        <h2>Release Year: 1967</h2>
+
+    </center>
+    <p>This is the Volkswagen Kombi Van T2, an iconic forward-control panel van that was introduced in 1967 by the German automaker Volkswagen. Known for its rounded body and air-cooled engine, the T2 became a cultural symbol of freedom, adventure, and the hippie movement. It offered versatility and space, making it popular as a camper, family van, and even as a utility vehicle. Its charming retro design and historic significance continue to make it a beloved vintage automobile worldwide.</p>
+    
+    <center>
+        <img src="./img/Volkswagen Beetle.jpeg" width="300px" alt="Volkswagen Beetle">  #Change your file path 
+        <h1>Volkswagen Beetle</h1>
+        <h2> Release Year: 1938</h2>
+
+    </center>
+    <p>This is the legendary Volkswagen Beetle, famously known in this form as Herbie, the "Love Bug" from the Hollywood movie series. With its iconic rounded shape, number 53 decal, and red-white-blue racing stripe, this Beetle became a cultural phenomenon. Originally designed by Ferdinand Porsche, the Beetle was built as an affordable car for the masses and went on to become one of the best-selling cars of all time. Its simple engineering, unique design, and charming personality continue to captivate vintage car lovers around the world.</p>
+
+    <hr>
+    <center>
+        <h1>
+        <a href="https://www.volkswagen-newsroom.com/en/volkswagen-classic-3700">For Further knowledge</a>
+        </h1>
+    </center>
+
+
+
+
+
+</body>
+</html>
